@@ -1,0 +1,28 @@
+{
+    "DataExpositor": [{
+            "idEventoEdicion": 17,
+            "id_Contacto": 1
+        }],
+    "DataCapturas": [{
+            "Notes": "",
+            "FechaCaptura": "11\/13\/2015 ",
+            "Lectura": "",
+            "CantidadCapturas": "1",
+            "HoraCaptura": " 16:40",
+            "Ranking": "0",
+            "ManualCode": "86845",
+            "TipoPersona": "V",
+            "PrefijoEvento": "SM",
+            "id_Cliente": 0
+        }],
+    "DataMovil": [{
+            "OrigenLectura": 1,
+            "BatteryLevel": "71",
+            "DeviceName": "samsung SCH-R970C",
+            "ID_Device": "xxxxxxxxxx"
+        }],
+    "DataEmpresa": [{
+            "id_EmpresaEdicion": 000,
+            "id_Empresa": 1
+        }]
+}
