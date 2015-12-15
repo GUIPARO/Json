@@ -99,7 +99,7 @@ Como podemos observar, hemos creado un objeto llamado frutería y, dentro de ese
 Estos objetos a su vez contienen un array cuyo contenido es el **nombre** y la **cantidad** de cada fruta o verdura.
 
 A continuacion una imagen que nos ayudara un poco a entender sobre lo que es un **JSON Object** & **JSON Array**
-![GitHub Logo](http://www.androidhive.info/wp-content/uploads/2012/01/json_structor.png)
+![Json](http://www.androidhive.info/wp-content/uploads/2012/01/json_structor.png)
 
 ##Herramientas de visualización
 Existen herramientas que nos ayudan a poder ver de manera mas estructurada nuestro **JSON**:
